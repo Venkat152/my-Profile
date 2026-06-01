@@ -32,24 +32,72 @@
 
 ---
 
-## 👨‍💻 About Me
+<h2 align="center">⚡ &nbsp; The Developer Behind The Code &nbsp; ⚡</h2>
 
-```yaml
-name:        Venkatesh M
-role:        Salesforce Developer
-company:     Capgemini
-location:    India 🇮🇳
-focus:       [ Apex, LWC, Agentforce, Experience Cloud, Integrations ]
-mission:     "Engineer secure, intelligent, metadata-driven Salesforce experiences."
-currently:   Building Agentforce + GenAI solutions that solve real business problems
-learning:    Data Cloud, Advanced RAG patterns, MuleSoft
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
+<br/>
+
+Hi, I'm **Venkatesh M** — a Salesforce Developer at **Capgemini, India 🇮🇳**
+
+I live at the intersection of **AI automation** and **enterprise platform engineering** — where Agentforce agents replace manual workflows, RAG grounds decisions in real policy data, and Batch Apex handles the heavy lifting so humans don't have to.
+
+I don't just write code. I **architect outcomes** — systems that are intelligent by design, secure by default, and built to survive production at scale.
+
+<br/>
+
+```text
+╔══════════════════════════════════════════════════╗
+║  🔭  Building    →  Multi-agent Agentforce systems ║
+║  🧠  AI Focus    →  RAG · Prompt Templates · GenAI ║
+║  🌱  Learning    →  Data Cloud · MuleSoft · RAG    ║
+║  💼  Company     →  Capgemini, India               ║
+║  🎯  2026 Goal   →  Ship 2 more production agents  ║
+║  ⚡  Fun Fact    →  Solved Mixed DML more times     ║
+║               than I care to admit 😅              ║
+╚══════════════════════════════════════════════════╝
 ```
 
-- 🤖 I design **Agentforce** agents that go beyond chat — autonomous workflows grounded in **RAG** and policy data
-- ⚡ I build **production-grade LWC + LWR** experiences with strict separation of concerns
-- 🔒 I'm passionate about **Zero-Trust security**, identity governance, and bulk-safe Apex architecture
-- 🌐 I love wiring **cross-org & external integrations** using Named Credentials, OAuth 2.0, Platform Events, and EMP-Connector
-- 📦 Every project I ship is **metadata-driven, governor-safe, and demo-ready**
+</td>
+<td width="45%" align="center" valign="top">
+<br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
+
+<br/>
+
+> *"If a human does it twice,*
+> *automate it.*
+> *If it's automated,*
+> *make it intelligent."*
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table align="center" width="92%">
+<tr>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/Agentforce-Expert-663399?style=flat-square&logo=salesforce&logoColor=white"/><br/>
+  <sub><b>AI · Autonomous Agents · RAG</b></sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/Apex-Advanced-0176D3?style=flat-square&logo=salesforce&logoColor=white"/><br/>
+  <sub><b>Batch · Queueable · Async</b></sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/LWC%20%2B%20LWR-Advanced-00A1E0?style=flat-square&logo=lightning&logoColor=white"/><br/>
+  <sub><b>Experience Cloud · UI/UX</b></sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/Integrations-Expert-10a37f?style=flat-square&logo=jsonwebtokens&logoColor=white"/><br/>
+  <sub><b>REST · OAuth · Events · Java</b></sub>
+</td>
+</tr>
+</table>
 
 ---
 
