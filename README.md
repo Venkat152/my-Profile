@@ -1,9 +1,20 @@
-<!-- ============================================================ -->
-<!--                  VENKATESH M  ·  GITHUB PROFILE              -->
-<!-- ============================================================ -->
+<!--
+╔══════════════════════════════════════════════════════════════╗
+║   ██╗   ██╗███████╗███╗   ██╗██╗  ██╗ █████╗ ████████╗      ║
+║   ██║   ██║██╔════╝████╗  ██║██║ ██╔╝██╔══██╗╚══██╔══╝      ║
+║   ██║   ██║█████╗  ██╔██╗ ██║█████╔╝ ███████║   ██║         ║
+║   ╚██╗ ██╔╝██╔══╝  ██║╚██╗██║██╔═██╗ ██╔══██║   ██║         ║
+║    ╚████╔╝ ███████╗██║ ╚████║██║  ██╗██║  ██║   ██║         ║
+║     ╚═══╝  ╚══════╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝         ║
+║              S A L E S F O R C E   ·   A I                   ║
+╚══════════════════════════════════════════════════════════════╝
+-->
 
+<div align="center">
+
+<!-- ═════════════════════ HERO BANNER ═════════════════════ -->
 <a href="https://github.com/Venkat152">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:032d60,35:0176d3,70:1b96ff,100:38BDF8&height=230&section=header&text=Venkatesh%20M&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Salesforce%20Developer%20%E2%80%A2%20Agentforce%20Builder%20%E2%80%A2%20LWC%20Architect&descSize=18&descAlignY=58&animation=twinkling" width="100%" alt="Venkatesh M - Salesforce Developer"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,6,12,30&height=260&section=header&text=Venkatesh%20M&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=⚡%20Salesforce%20·%20Agentforce%20·%20GenAI%20·%20LWC%20Architect%20⚡&descAlignY=62&descSize=18&animation=fadeIn" width="100%" alt="header"/>
 </a>
 
 <p align="center">
